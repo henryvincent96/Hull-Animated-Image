@@ -1,0 +1,18 @@
+\\data.adir.hull.ac.uk\home5\504\504881\08240 SVN\acw\labs\bin\Labs.dll.config
+\\data.adir.hull.ac.uk\home5\504\504881\08240 SVN\acw\labs\bin\Labs.dll
+\\data.adir.hull.ac.uk\home5\504\504881\08240 SVN\acw\labs\bin\Labs.pdb
+\\data.adir.hull.ac.uk\home5\504\504881\08240 SVN\acw\labs\obj\Debug\acw.csprojResolveAssemblyReference.cache
+\\data.adir.hull.ac.uk\home5\504\504881\08240 SVN\acw\labs\obj\Debug\Labs.dll
+\\data.adir.hull.ac.uk\home5\504\504881\08240 SVN\acw\labs\obj\Debug\Labs.pdb
+H:\Active University Repos\2DGFX\acw\labs\bin\Labs.dll.config
+H:\Active University Repos\2DGFX\acw\labs\bin\Labs.dll
+H:\Active University Repos\2DGFX\acw\labs\bin\Labs.pdb
+H:\Active University Repos\2DGFX\acw\labs\obj\Debug\acw.csprojResolveAssemblyReference.cache
+H:\Active University Repos\2DGFX\acw\labs\obj\Debug\Labs.dll
+H:\Active University Repos\2DGFX\acw\labs\obj\Debug\Labs.pdb
+C:\Users\Henry\Documents\Active University Projects\2DGFX\acw\labs\bin\Labs.dll.config
+C:\Users\Henry\Documents\Active University Projects\2DGFX\acw\labs\bin\Labs.dll
+C:\Users\Henry\Documents\Active University Projects\2DGFX\acw\labs\bin\Labs.pdb
+C:\Users\Henry\Documents\Active University Projects\2DGFX\acw\labs\obj\Debug\acw.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Documents\Active University Projects\2DGFX\acw\labs\obj\Debug\Labs.dll
+C:\Users\Henry\Documents\Active University Projects\2DGFX\acw\labs\obj\Debug\Labs.pdb
