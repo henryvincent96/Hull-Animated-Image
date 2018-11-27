@@ -7,4 +7,4 @@ This project implements custom vector and matrix objects written in pure javascr
 
 Here's a preview:
 
-![Preview](preview.gif)
+![Preview](https://raw.githubusercontent.com/sammysquirrel129/Hull-Animated-Image/master/Preview.gif)
