@@ -1,6 +1,0 @@
-\\data.adir.hull.ac.uk\home5\504\504881\08240 SVN\labs\labs\bin\Labs.dll.config
-\\data.adir.hull.ac.uk\home5\504\504881\08240 SVN\labs\labs\bin\Labs.dll
-\\data.adir.hull.ac.uk\home5\504\504881\08240 SVN\labs\labs\bin\Labs.pdb
-\\data.adir.hull.ac.uk\home5\504\504881\08240 SVN\labs\labs\obj\Debug\Labs.csprojResolveAssemblyReference.cache
-\\data.adir.hull.ac.uk\home5\504\504881\08240 SVN\labs\labs\obj\Debug\Labs.dll
-\\data.adir.hull.ac.uk\home5\504\504881\08240 SVN\labs\labs\obj\Debug\Labs.pdb
